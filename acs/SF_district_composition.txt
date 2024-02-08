@@ -1,0 +1,11 @@
+District 1 is composed of 100.000% blocks with a percent column of 0.5
+District 2 is composed of 99.917% blocks with a percent column of 0.5
+District 3 is composed of 99.775% blocks with a percent column of 0.5
+District 4 is composed of 100.000% blocks with a percent column of 0.5
+District 5 is composed of 100.000% blocks with a percent column of 0.5
+District 6 is composed of 98.419% blocks with a percent column of 0.5
+District 7 is composed of 99.985% blocks with a percent column of 0.5
+District 8 is composed of 100.000% blocks with a percent column of 0.5
+District 9 is composed of 100.000% blocks with a percent column of 0.5
+District 10 is composed of 99.438% blocks with a percent column of 0.5
+District 11 is composed of 99.734% blocks with a percent column of 0.5
