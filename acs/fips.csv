@@ -1,0 +1,6 @@
+city,county,state,state fips,county fips,place
+berkeley,alameda,california,6,1,6000
+san leandro,alameda,california,6,1,68084
+san francisco,san francisco,california,6,75,67000
+oakland,alameda,california,6,1,53000
+minneapolis,hennepin,minnesota,27,53,43000

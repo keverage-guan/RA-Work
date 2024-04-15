@@ -1,0 +1,455 @@
+Name,Label,Concept
+DP01_0001,General Demographic Characteristics!!Total population,General Demographic Characteristics
+DP01_0002,General Demographic Characteristics!!SEX AND AGE!!Male,General Demographic Characteristics
+DP01_0003,General Demographic Characteristics!!SEX AND AGE!!Female,General Demographic Characteristics
+DP01_0004,General Demographic Characteristics!!SEX AND AGE!!Under 5 years,General Demographic Characteristics
+DP01_0005,General Demographic Characteristics!!SEX AND AGE!!5 to 9 years,General Demographic Characteristics
+DP01_0006,General Demographic Characteristics!!SEX AND AGE!!10 to 14 years,General Demographic Characteristics
+DP01_0007,General Demographic Characteristics!!SEX AND AGE!!15 to 19 years,General Demographic Characteristics
+DP01_0008,General Demographic Characteristics!!SEX AND AGE!!20 to 24 years,General Demographic Characteristics
+DP01_0009,General Demographic Characteristics!!SEX AND AGE!!25 to 34 years,General Demographic Characteristics
+DP01_0010,General Demographic Characteristics!!SEX AND AGE!!35 to 44 years,General Demographic Characteristics
+DP01_0011,General Demographic Characteristics!!SEX AND AGE!!45 to 54 years,General Demographic Characteristics
+DP01_0012,General Demographic Characteristics!!SEX AND AGE!!55 to 59 years,General Demographic Characteristics
+DP01_0013,General Demographic Characteristics!!SEX AND AGE!!60 to 64 years,General Demographic Characteristics
+DP01_0014,General Demographic Characteristics!!SEX AND AGE!!65 to 74 years,General Demographic Characteristics
+DP01_0015,General Demographic Characteristics!!SEX AND AGE!!75 to 84 years,General Demographic Characteristics
+DP01_0016,General Demographic Characteristics!!SEX AND AGE!!85 years and over,General Demographic Characteristics
+DP01_0017,General Demographic Characteristics!!SEX AND AGE!!Median age (years),General Demographic Characteristics
+DP01_0018,General Demographic Characteristics!!SEX AND AGE!!18 years and over,General Demographic Characteristics
+DP01_0019,General Demographic Characteristics!!SEX AND AGE!!21 years and over,General Demographic Characteristics
+DP01_0020,General Demographic Characteristics!!SEX AND AGE!!62 years and over ,General Demographic Characteristics
+DP01_0021,General Demographic Characteristics!!SEX AND AGE!!65 years and over,General Demographic Characteristics
+DP01_0022,General Demographic Characteristics!!SEX AND AGE!!18 years and over,General Demographic Characteristics
+DP01_0023,General Demographic Characteristics!!SEX AND AGE!!Male,General Demographic Characteristics
+DP01_0024,General Demographic Characteristics!!SEX AND AGE!!Female,General Demographic Characteristics
+DP01_0025,General Demographic Characteristics!!SEX AND AGE!!65 years and over,General Demographic Characteristics
+DP01_0026,General Demographic Characteristics!!SEX AND AGE!!Male,General Demographic Characteristics
+DP01_0027,General Demographic Characteristics!!SEX AND AGE!!Female,General Demographic Characteristics
+DP01_0028,General Demographic Characteristics!!RACE!!One race,General Demographic Characteristics
+DP01_0029,General Demographic Characteristics!!RACE!!Two or more races,General Demographic Characteristics
+DP01_0030,General Demographic Characteristics!!RACE!!Total population,General Demographic Characteristics
+DP01_0031,General Demographic Characteristics!!RACE!!One race,General Demographic Characteristics
+DP01_0032,General Demographic Characteristics!!RACE!!White,General Demographic Characteristics
+DP01_0033,General Demographic Characteristics!!RACE!!Black or African American,General Demographic Characteristics
+DP01_0034,General Demographic Characteristics!!RACE!!American Indian and Alaska Native,General Demographic Characteristics
+DP01_0035,General Demographic Characteristics!!RACE!!Cherokee tribal grouping,General Demographic Characteristics
+DP01_0036,General Demographic Characteristics!!RACE!!Chippewa tribal grouping,General Demographic Characteristics
+DP01_0037,General Demographic Characteristics!!RACE!!Navajo tribal grouping,General Demographic Characteristics
+DP01_0038,General Demographic Characteristics!!RACE!!Sioux tribal grouping,General Demographic Characteristics
+DP01_0039,General Demographic Characteristics!!RACE!!Asian,General Demographic Characteristics
+DP01_0040,General Demographic Characteristics!!RACE!!Asian Indian,General Demographic Characteristics
+DP01_0041,General Demographic Characteristics!!RACE!!Chinese,General Demographic Characteristics
+DP01_0042,General Demographic Characteristics!!RACE!!Filipino,General Demographic Characteristics
+DP01_0043,General Demographic Characteristics!!RACE!!Japanese,General Demographic Characteristics
+DP01_0044,General Demographic Characteristics!!RACE!!Korean,General Demographic Characteristics
+DP01_0045,General Demographic Characteristics!!RACE!!Vietnamese,General Demographic Characteristics
+DP01_0046,General Demographic Characteristics!!RACE!!Other Asian,General Demographic Characteristics
+DP01_0047,General Demographic Characteristics!!RACE!!Native Hawaiian and Other Pacific Islander,General Demographic Characteristics
+DP01_0048,General Demographic Characteristics!!RACE!!Native Hawaiian ,General Demographic Characteristics
+DP01_0049,General Demographic Characteristics!!RACE!!Guamanian or Chamorro,General Demographic Characteristics
+DP01_0050,General Demographic Characteristics!!RACE!!Samoan,General Demographic Characteristics
+DP01_0051,General Demographic Characteristics!!RACE!!Other Pacific Islander,General Demographic Characteristics
+DP01_0052,General Demographic Characteristics!!RACE!!Some other race,General Demographic Characteristics
+DP01_0053,General Demographic Characteristics!!RACE!!Two or more races,General Demographic Characteristics
+DP01_0054,General Demographic Characteristics!!RACE!!White and Black or African American,General Demographic Characteristics
+DP01_0055,General Demographic Characteristics!!RACE!!White and American Indian and Alaska Native,General Demographic Characteristics
+DP01_0056,General Demographic Characteristics!!RACE!!White and Asian,General Demographic Characteristics
+DP01_0057,General Demographic Characteristics!!RACE!!Black or African American and American Indian and Alaska Native,General Demographic Characteristics
+DP01_0058,General Demographic Characteristics!!Race alone or in combination with one or more other races!!Total population,General Demographic Characteristics
+DP01_0059,General Demographic Characteristics!!Race alone or in combination with one or more other races!!White ,General Demographic Characteristics
+DP01_0060,General Demographic Characteristics!!Race alone or in combination with one or more other races!!Black or African American,General Demographic Characteristics
+DP01_0061,General Demographic Characteristics!!Race alone or in combination with one or more other races!!American Indian and Alaska Native,General Demographic Characteristics
+DP01_0062,General Demographic Characteristics!!Race alone or in combination with one or more other races!!Asian,General Demographic Characteristics
+DP01_0063,General Demographic Characteristics!!Race alone or in combination with one or more other races!!Native Hawaiian and Other Pacific Islander,General Demographic Characteristics
+DP01_0064,General Demographic Characteristics!!Race alone or in combination with one or more other races!!Some other race,General Demographic Characteristics
+DP01_0065,General Demographic Characteristics!!HISPANIC OR LATINO AND RACE!!Total population,General Demographic Characteristics
+DP01_0066,General Demographic Characteristics!!HISPANIC OR LATINO AND RACE!!Hispanic or Latino (of any race),General Demographic Characteristics
+DP01_0067,General Demographic Characteristics!!HISPANIC OR LATINO AND RACE!!Mexican,General Demographic Characteristics
+DP01_0068,General Demographic Characteristics!!HISPANIC OR LATINO AND RACE!!Puerto Rican,General Demographic Characteristics
+DP01_0069,General Demographic Characteristics!!HISPANIC OR LATINO AND RACE!!Cuban,General Demographic Characteristics
+DP01_0070,General Demographic Characteristics!!HISPANIC OR LATINO AND RACE!!Other Hispanic or Latino,General Demographic Characteristics
+DP01_0071,General Demographic Characteristics!!HISPANIC OR LATINO AND RACE!!Not Hispanic or Latino,General Demographic Characteristics
+DP01_0072,General Demographic Characteristics!!HISPANIC OR LATINO AND RACE!!White alone,General Demographic Characteristics
+DP01_0073,General Demographic Characteristics!!HISPANIC OR LATINO AND RACE!!Black or African American alone,General Demographic Characteristics
+DP01_0074,General Demographic Characteristics!!HISPANIC OR LATINO AND RACE!!American Indian and Alaska Native alone,General Demographic Characteristics
+DP01_0075,General Demographic Characteristics!!HISPANIC OR LATINO AND RACE!!Asian alone,General Demographic Characteristics
+DP01_0076,General Demographic Characteristics!!HISPANIC OR LATINO AND RACE!!Native Hawaiian and Other Pacific Islander alone,General Demographic Characteristics
+DP01_0077,General Demographic Characteristics!!HISPANIC OR LATINO AND RACE!!Some other race alone,General Demographic Characteristics
+DP01_0078,General Demographic Characteristics!!HISPANIC OR LATINO AND RACE!!Two or more races,General Demographic Characteristics
+DP01_0079,General Demographic Characteristics!!HISPANIC OR LATINO AND RACE!!Two races including Some other race,General Demographic Characteristics
+DP01_0080,"General Demographic Characteristics!!HISPANIC OR LATINO AND RACE!!Two races excluding Some other race, and Three or more races",General Demographic Characteristics
+DP01_0081,General Demographic Characteristics!!RELATIONSHIP!!Household population,General Demographic Characteristics
+DP01_0082,General Demographic Characteristics!!RELATIONSHIP!!Householder,General Demographic Characteristics
+DP01_0083,General Demographic Characteristics!!RELATIONSHIP!!Spouse,General Demographic Characteristics
+DP01_0084,General Demographic Characteristics!!RELATIONSHIP!!Child,General Demographic Characteristics
+DP01_0085,General Demographic Characteristics!!RELATIONSHIP!!Other relatives,General Demographic Characteristics
+DP01_0086,General Demographic Characteristics!!RELATIONSHIP!!Nonrelatives,General Demographic Characteristics
+DP01_0087,General Demographic Characteristics!!RELATIONSHIP!!Unmarried partner,General Demographic Characteristics
+DP01_0088,General Demographic Characteristics!!HOUSEHOLDS BY TYPE!!Total households,General Demographic Characteristics
+DP01_0089,General Demographic Characteristics!!HOUSEHOLDS BY TYPE!!Family households (families),General Demographic Characteristics
+DP01_0090,General Demographic Characteristics!!HOUSEHOLDS BY TYPE!!With own children under 18 years,General Demographic Characteristics
+DP01_0091,General Demographic Characteristics!!HOUSEHOLDS BY TYPE!!Married-couple families,General Demographic Characteristics
+DP01_0092,General Demographic Characteristics!!HOUSEHOLDS BY TYPE!!With own children under 18 years,General Demographic Characteristics
+DP01_0093,"General Demographic Characteristics!!HOUSEHOLDS BY TYPE!!Male householder, no wife present",General Demographic Characteristics
+DP01_0094,General Demographic Characteristics!!HOUSEHOLDS BY TYPE!!With own children under 18 years,General Demographic Characteristics
+DP01_0095,"General Demographic Characteristics!!HOUSEHOLDS BY TYPE!!Female householder, no husband present",General Demographic Characteristics
+DP01_0096,General Demographic Characteristics!!HOUSEHOLDS BY TYPE!!With own children under 18 years,General Demographic Characteristics
+DP01_0097,General Demographic Characteristics!!HOUSEHOLDS BY TYPE!!Nonfamily households,General Demographic Characteristics
+DP01_0098,General Demographic Characteristics!!HOUSEHOLDS BY TYPE!!Householder living alone,General Demographic Characteristics
+DP01_0099,General Demographic Characteristics!!HOUSEHOLDS BY TYPE!!65 years and over,General Demographic Characteristics
+DP01_0100,General Demographic Characteristics!!HOUSEHOLDS BY TYPE!!Households with one or more people under 18 years,General Demographic Characteristics
+DP01_0101,General Demographic Characteristics!!HOUSEHOLDS BY TYPE!!Households with one or more people 65 years and over,General Demographic Characteristics
+DP01_0102,General Demographic Characteristics!!HOUSEHOLDS BY TYPE!!Average household size ,General Demographic Characteristics
+DP01_0103,General Demographic Characteristics!!HOUSEHOLDS BY TYPE!!Average family size,General Demographic Characteristics
+DP02_0001,Selected Social Characteristics in the United States!!SCHOOL ENROLLMENT!!Population 3 years and over enrolled in school,Selected Social Characteristics in the United States
+DP02_0002,"Selected Social Characteristics in the United States!!SCHOOL ENROLLMENT!!Nursery school, preschool",Selected Social Characteristics in the United States
+DP02_0003,Selected Social Characteristics in the United States!!SCHOOL ENROLLMENT!!Kindergarten,Selected Social Characteristics in the United States
+DP02_0004,Selected Social Characteristics in the United States!!SCHOOL ENROLLMENT!!Elementary school (grades 1-8),Selected Social Characteristics in the United States
+DP02_0005,Selected Social Characteristics in the United States!!SCHOOL ENROLLMENT!!High school (grades 9-12),Selected Social Characteristics in the United States
+DP02_0006,Selected Social Characteristics in the United States!!SCHOOL ENROLLMENT!!College or graduate school,Selected Social Characteristics in the United States
+DP02_0007,Selected Social Characteristics in the United States!!EDUCATIONAL ATTAINMENT!!Population 25 years and over,Selected Social Characteristics in the United States
+DP02_0008,Selected Social Characteristics in the United States!!EDUCATIONAL ATTAINMENT!!Less than 9th grade,Selected Social Characteristics in the United States
+DP02_0009,"Selected Social Characteristics in the United States!!EDUCATIONAL ATTAINMENT!!9th to 12th grade, no diploma",Selected Social Characteristics in the United States
+DP02_0010,Selected Social Characteristics in the United States!!EDUCATIONAL ATTAINMENT!!High school graduate (includes equivalency),Selected Social Characteristics in the United States
+DP02_0011,"Selected Social Characteristics in the United States!!EDUCATIONAL ATTAINMENT!!Some college, no degree",Selected Social Characteristics in the United States
+DP02_0012,Selected Social Characteristics in the United States!!EDUCATIONAL ATTAINMENT!!Associate's degree,Selected Social Characteristics in the United States
+DP02_0013,Selected Social Characteristics in the United States!!EDUCATIONAL ATTAINMENT!!Bachelor's degree,Selected Social Characteristics in the United States
+DP02_0014,Selected Social Characteristics in the United States!!EDUCATIONAL ATTAINMENT!!Graduate or professional degree ,Selected Social Characteristics in the United States
+DP02_0015,Selected Social Characteristics in the United States!!EDUCATIONAL ATTAINMENT!!Percent high school graduate or higher,Selected Social Characteristics in the United States
+DP02_0016,Selected Social Characteristics in the United States!!EDUCATIONAL ATTAINMENT!!Percent bachelor's degree or higher,Selected Social Characteristics in the United States
+DP02_0017,Selected Social Characteristics in the United States!!MARITAL STATUS!!Males 15 years and over,Selected Social Characteristics in the United States
+DP02_0018,Selected Social Characteristics in the United States!!MARITAL STATUS!!Never married,Selected Social Characteristics in the United States
+DP02_0019,"Selected Social Characteristics in the United States!!MARITAL STATUS!!Now married, except separated",Selected Social Characteristics in the United States
+DP02_0020,Selected Social Characteristics in the United States!!MARITAL STATUS!!Separated,Selected Social Characteristics in the United States
+DP02_0021,Selected Social Characteristics in the United States!!MARITAL STATUS!!Widowed,Selected Social Characteristics in the United States
+DP02_0022,Selected Social Characteristics in the United States!!MARITAL STATUS!!Divorced,Selected Social Characteristics in the United States
+DP02_0023,Selected Social Characteristics in the United States!!MARITAL STATUS!!Females 15 years and over,Selected Social Characteristics in the United States
+DP02_0024,Selected Social Characteristics in the United States!!MARITAL STATUS!!Never married,Selected Social Characteristics in the United States
+DP02_0025,"Selected Social Characteristics in the United States!!MARITAL STATUS!!Now married, except separated",Selected Social Characteristics in the United States
+DP02_0026,Selected Social Characteristics in the United States!!MARITAL STATUS!!Separated,Selected Social Characteristics in the United States
+DP02_0027,Selected Social Characteristics in the United States!!MARITAL STATUS!!Widowed,Selected Social Characteristics in the United States
+DP02_0028,Selected Social Characteristics in the United States!!MARITAL STATUS!!Divorced,Selected Social Characteristics in the United States
+DP02_0029,Selected Social Characteristics in the United States!!FERTILITY!!Number of women 15 to 50 years old who had a birth in the past 12 months,Selected Social Characteristics in the United States
+DP02_0030,"Selected Social Characteristics in the United States!!FERTILITY!!Unmarried women (widowed, divorced, and never married)",Selected Social Characteristics in the United States
+DP02_0031,"Selected Social Characteristics in the United States!!FERTILITY!!Per 1,000 unmarried women",Selected Social Characteristics in the United States
+DP02_0032,"Selected Social Characteristics in the United States!!FERTILITY!!Per 1,000 women 15 to 50 years old",Selected Social Characteristics in the United States
+DP02_0033,"Selected Social Characteristics in the United States!!FERTILITY!!Per 1,000 women 15 to 19 years old",Selected Social Characteristics in the United States
+DP02_0034,"Selected Social Characteristics in the United States!!FERTILITY!!Per 1,000 women 20 to 34 years old",Selected Social Characteristics in the United States
+DP02_0035,"Selected Social Characteristics in the United States!!FERTILITY!!Per 1,000 women 35 to 50 years old",Selected Social Characteristics in the United States
+DP02_0036,Selected Social Characteristics in the United States!!GRANDPARENTS!!Number of grandparents living with own grandchildren under 18 years in households,Selected Social Characteristics in the United States
+DP02_0037,Selected Social Characteristics in the United States!!GRANDPARENTS!!Responsible for grandchildren,Selected Social Characteristics in the United States
+DP02_0038,Selected Social Characteristics in the United States!!Characteristics of grandparents responsible for own grandchildren under 18 years!!Who are female,Selected Social Characteristics in the United States
+DP02_0039,Selected Social Characteristics in the United States!!Characteristics of grandparents responsible for own grandchildren under 18 years!!Who are married,Selected Social Characteristics in the United States
+DP02_0040,Selected Social Characteristics in the United States!!VETERAN STATUS!!Civilian population 18 years and over,Selected Social Characteristics in the United States
+DP02_0041,Selected Social Characteristics in the United States!!VETERAN STATUS!!Civilian veterans,Selected Social Characteristics in the United States
+DP02_0042,Selected Social Characteristics in the United States!!RESIDENCE 1 YEAR AGO!!Population 1 year and over,Selected Social Characteristics in the United States
+DP02_0043,Selected Social Characteristics in the United States!!RESIDENCE 1 YEAR AGO!!Same house,Selected Social Characteristics in the United States
+DP02_0044,Selected Social Characteristics in the United States!!RESIDENCE 1 YEAR AGO!!Different house in the U.S.,Selected Social Characteristics in the United States
+DP02_0045,Selected Social Characteristics in the United States!!RESIDENCE 1 YEAR AGO!!Same county,Selected Social Characteristics in the United States
+DP02_0046,Selected Social Characteristics in the United States!!RESIDENCE 1 YEAR AGO!!Different county,Selected Social Characteristics in the United States
+DP02_0047,Selected Social Characteristics in the United States!!RESIDENCE 1 YEAR AGO!!Same state,Selected Social Characteristics in the United States
+DP02_0048,Selected Social Characteristics in the United States!!RESIDENCE 1 YEAR AGO!!Different state,Selected Social Characteristics in the United States
+DP02_0049,Selected Social Characteristics in the United States!!RESIDENCE 1 YEAR AGO!!Abroad,Selected Social Characteristics in the United States
+DP02_0050,Selected Social Characteristics in the United States!!PLACE OF BIRTH!!Total population,Selected Social Characteristics in the United States
+DP02_0051,Selected Social Characteristics in the United States!!PLACE OF BIRTH!!Native,Selected Social Characteristics in the United States
+DP02_0052,Selected Social Characteristics in the United States!!PLACE OF BIRTH!!Born in United States,Selected Social Characteristics in the United States
+DP02_0053,Selected Social Characteristics in the United States!!PLACE OF BIRTH!!State of residence,Selected Social Characteristics in the United States
+DP02_0054,Selected Social Characteristics in the United States!!PLACE OF BIRTH!!Different state,Selected Social Characteristics in the United States
+DP02_0055,"Selected Social Characteristics in the United States!!PLACE OF BIRTH!!Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)",Selected Social Characteristics in the United States
+DP02_0056,Selected Social Characteristics in the United States!!PLACE OF BIRTH!!Foreign born,Selected Social Characteristics in the United States
+DP02_0057,Selected Social Characteristics in the United States!!U.S. CITIZENSHIP STATUS!!Foreign-born population,Selected Social Characteristics in the United States
+DP02_0058,Selected Social Characteristics in the United States!!U.S. CITIZENSHIP STATUS!!Naturalized U.S. citizen,Selected Social Characteristics in the United States
+DP02_0059,Selected Social Characteristics in the United States!!U.S. CITIZENSHIP STATUS!!Not a U.S. citizen,Selected Social Characteristics in the United States
+DP02_0060,Selected Social Characteristics in the United States!!YEAR OF ENTRY!!Population born outside the United States,Selected Social Characteristics in the United States
+DP02_0061,Selected Social Characteristics in the United States!!YEAR OF ENTRY!!Native,Selected Social Characteristics in the United States
+DP02_0062,Selected Social Characteristics in the United States!!YEAR OF ENTRY!!     Entered 2000 or later,Selected Social Characteristics in the United States
+DP02_0063,Selected Social Characteristics in the United States!!YEAR OF ENTRY!!     Entered before 2000,Selected Social Characteristics in the United States
+DP02_0064,Selected Social Characteristics in the United States!!YEAR OF ENTRY!!Foreign born,Selected Social Characteristics in the United States
+DP02_0065,Selected Social Characteristics in the United States!!YEAR OF ENTRY!!     Entered 2000 or later,Selected Social Characteristics in the United States
+DP02_0066,Selected Social Characteristics in the United States!!YEAR OF ENTRY!!     Entered before 2000,Selected Social Characteristics in the United States
+DP02_0067,"Selected Social Characteristics in the United States!!WORLD REGION OF BIRTH OF FOREIGN BORN!!Foreign-born population, excluding population born at sea",Selected Social Characteristics in the United States
+DP02_0068,Selected Social Characteristics in the United States!!WORLD REGION OF BIRTH OF FOREIGN BORN!!Europe,Selected Social Characteristics in the United States
+DP02_0069,Selected Social Characteristics in the United States!!WORLD REGION OF BIRTH OF FOREIGN BORN!!Asia,Selected Social Characteristics in the United States
+DP02_0070,Selected Social Characteristics in the United States!!WORLD REGION OF BIRTH OF FOREIGN BORN!!Africa,Selected Social Characteristics in the United States
+DP02_0071,Selected Social Characteristics in the United States!!WORLD REGION OF BIRTH OF FOREIGN BORN!!Oceania,Selected Social Characteristics in the United States
+DP02_0072,Selected Social Characteristics in the United States!!WORLD REGION OF BIRTH OF FOREIGN BORN!!Latin America,Selected Social Characteristics in the United States
+DP02_0073,Selected Social Characteristics in the United States!!WORLD REGION OF BIRTH OF FOREIGN BORN!!Northern America,Selected Social Characteristics in the United States
+DP02_0074,Selected Social Characteristics in the United States!!LANGUAGE SPOKEN AT HOME!!Population 5 years and over,Selected Social Characteristics in the United States
+DP02_0075,Selected Social Characteristics in the United States!!LANGUAGE SPOKEN AT HOME!!English only,Selected Social Characteristics in the United States
+DP02_0076,Selected Social Characteristics in the United States!!LANGUAGE SPOKEN AT HOME!!Language other than English,Selected Social Characteristics in the United States
+DP02_0077,"Selected Social Characteristics in the United States!!LANGUAGE SPOKEN AT HOME!!Speak English less than ""very well""",Selected Social Characteristics in the United States
+DP02_0078,Selected Social Characteristics in the United States!!LANGUAGE SPOKEN AT HOME!!Spanish,Selected Social Characteristics in the United States
+DP02_0079,"Selected Social Characteristics in the United States!!LANGUAGE SPOKEN AT HOME!!Speak English less than ""very well""",Selected Social Characteristics in the United States
+DP02_0080,Selected Social Characteristics in the United States!!LANGUAGE SPOKEN AT HOME!!Other Indo-European languages,Selected Social Characteristics in the United States
+DP02_0081,"Selected Social Characteristics in the United States!!LANGUAGE SPOKEN AT HOME!!Speak English less than ""very well""",Selected Social Characteristics in the United States
+DP02_0082,Selected Social Characteristics in the United States!!LANGUAGE SPOKEN AT HOME!!Asian and Pacific Islander languages,Selected Social Characteristics in the United States
+DP02_0083,"Selected Social Characteristics in the United States!!LANGUAGE SPOKEN AT HOME!!Speak English less than ""very well""",Selected Social Characteristics in the United States
+DP02_0084,Selected Social Characteristics in the United States!!LANGUAGE SPOKEN AT HOME!!Other languages,Selected Social Characteristics in the United States
+DP02_0085,"Selected Social Characteristics in the United States!!LANGUAGE SPOKEN AT HOME!!Speak English less than ""very well""",Selected Social Characteristics in the United States
+DP02_0086,Selected Social Characteristics in the United States!!ANCESTRY!!Total population,Selected Social Characteristics in the United States
+DP02_0087,Selected Social Characteristics in the United States!!ANCESTRY!!American,Selected Social Characteristics in the United States
+DP02_0088,Selected Social Characteristics in the United States!!ANCESTRY!!Arab,Selected Social Characteristics in the United States
+DP02_0089,Selected Social Characteristics in the United States!!ANCESTRY!!Czech,Selected Social Characteristics in the United States
+DP02_0090,Selected Social Characteristics in the United States!!ANCESTRY!!Danish,Selected Social Characteristics in the United States
+DP02_0091,Selected Social Characteristics in the United States!!ANCESTRY!!Dutch,Selected Social Characteristics in the United States
+DP02_0092,Selected Social Characteristics in the United States!!ANCESTRY!!English,Selected Social Characteristics in the United States
+DP02_0093,Selected Social Characteristics in the United States!!ANCESTRY!!French (except Basque),Selected Social Characteristics in the United States
+DP02_0094,Selected Social Characteristics in the United States!!ANCESTRY!!French Canadian,Selected Social Characteristics in the United States
+DP02_0095,Selected Social Characteristics in the United States!!ANCESTRY!!German,Selected Social Characteristics in the United States
+DP02_0096,Selected Social Characteristics in the United States!!ANCESTRY!!Greek,Selected Social Characteristics in the United States
+DP02_0097,Selected Social Characteristics in the United States!!ANCESTRY!!Hungarian,Selected Social Characteristics in the United States
+DP02_0098,Selected Social Characteristics in the United States!!ANCESTRY!!Irish,Selected Social Characteristics in the United States
+DP02_0099,Selected Social Characteristics in the United States!!ANCESTRY!!Italian,Selected Social Characteristics in the United States
+DP02_0100,Selected Social Characteristics in the United States!!ANCESTRY!!Lithuanian,Selected Social Characteristics in the United States
+DP02_0101,Selected Social Characteristics in the United States!!ANCESTRY!!Norwegian,Selected Social Characteristics in the United States
+DP02_0102,Selected Social Characteristics in the United States!!ANCESTRY!!Polish,Selected Social Characteristics in the United States
+DP02_0103,Selected Social Characteristics in the United States!!ANCESTRY!!Portuguese,Selected Social Characteristics in the United States
+DP02_0104,Selected Social Characteristics in the United States!!ANCESTRY!!Russian,Selected Social Characteristics in the United States
+DP02_0105,Selected Social Characteristics in the United States!!ANCESTRY!!Scotch-Irish,Selected Social Characteristics in the United States
+DP02_0106,Selected Social Characteristics in the United States!!ANCESTRY!!Scottish,Selected Social Characteristics in the United States
+DP02_0107,Selected Social Characteristics in the United States!!ANCESTRY!!Slovak,Selected Social Characteristics in the United States
+DP02_0108,Selected Social Characteristics in the United States!!ANCESTRY!!Subsaharan African,Selected Social Characteristics in the United States
+DP02_0109,Selected Social Characteristics in the United States!!ANCESTRY!!Swedish,Selected Social Characteristics in the United States
+DP02_0110,Selected Social Characteristics in the United States!!ANCESTRY!!Swiss,Selected Social Characteristics in the United States
+DP02_0111,Selected Social Characteristics in the United States!!ANCESTRY!!Ukrainian ,Selected Social Characteristics in the United States
+DP02_0112,Selected Social Characteristics in the United States!!ANCESTRY!!Welsh,Selected Social Characteristics in the United States
+DP02_0113,Selected Social Characteristics in the United States!!ANCESTRY!!West Indian (excluding Hispanic origin groups),Selected Social Characteristics in the United States
+DP03_0001,Selected Economic Characteristics!!EMPLOYMENT STATUS!!Population 16 years and over,Selected Economic Characteristics
+DP03_0002,Selected Economic Characteristics!!EMPLOYMENT STATUS!!In labor force,Selected Economic Characteristics
+DP03_0003,Selected Economic Characteristics!!EMPLOYMENT STATUS!!Civilian labor force,Selected Economic Characteristics
+DP03_0004,Selected Economic Characteristics!!EMPLOYMENT STATUS!!Employed,Selected Economic Characteristics
+DP03_0005,Selected Economic Characteristics!!EMPLOYMENT STATUS!!Unemployed,Selected Economic Characteristics
+DP03_0006,Selected Economic Characteristics!!EMPLOYMENT STATUS!!Armed Forces,Selected Economic Characteristics
+DP03_0007,Selected Economic Characteristics!!EMPLOYMENT STATUS!!Not in labor force,Selected Economic Characteristics
+DP03_0008,Selected Economic Characteristics!!EMPLOYMENT STATUS!!    Civilian labor force,Selected Economic Characteristics
+DP03_0009,Selected Economic Characteristics!!EMPLOYMENT STATUS!!Unemployed,Selected Economic Characteristics
+DP03_0010,Selected Economic Characteristics!!EMPLOYMENT STATUS!!Females 16 years and over,Selected Economic Characteristics
+DP03_0011,Selected Economic Characteristics!!EMPLOYMENT STATUS!!In labor force,Selected Economic Characteristics
+DP03_0012,Selected Economic Characteristics!!EMPLOYMENT STATUS!!Civilian labor force,Selected Economic Characteristics
+DP03_0013,Selected Economic Characteristics!!EMPLOYMENT STATUS!!Employed,Selected Economic Characteristics
+DP03_0014,Selected Economic Characteristics!!EMPLOYMENT STATUS!!Own children under 6 years,Selected Economic Characteristics
+DP03_0015,Selected Economic Characteristics!!EMPLOYMENT STATUS!!All parents in family in labor force,Selected Economic Characteristics
+DP03_0016,Selected Economic Characteristics!!EMPLOYMENT STATUS!!Own children 6 to 17 years,Selected Economic Characteristics
+DP03_0017,Selected Economic Characteristics!!EMPLOYMENT STATUS!!All parents in family in labor force,Selected Economic Characteristics
+DP03_0018,Selected Economic Characteristics!!COMMUTING TO WORK!!Workers 16 years and over,Selected Economic Characteristics
+DP03_0019,"Selected Economic Characteristics!!COMMUTING TO WORK!!Car, truck, or van -- drove alone",Selected Economic Characteristics
+DP03_0020,"Selected Economic Characteristics!!COMMUTING TO WORK!!Car, truck, or van -- carpooled",Selected Economic Characteristics
+DP03_0021,Selected Economic Characteristics!!COMMUTING TO WORK!!Public transportation (excluding taxicab),Selected Economic Characteristics
+DP03_0022,Selected Economic Characteristics!!COMMUTING TO WORK!!Walked,Selected Economic Characteristics
+DP03_0023,Selected Economic Characteristics!!COMMUTING TO WORK!!Other means,Selected Economic Characteristics
+DP03_0024,Selected Economic Characteristics!!COMMUTING TO WORK!!Worked at home,Selected Economic Characteristics
+DP03_0025,Selected Economic Characteristics!!COMMUTING TO WORK!!Mean travel time to work (minutes),Selected Economic Characteristics
+DP03_0026,Selected Economic Characteristics!!COMMUTING TO WORK!!Civilian employed population 16 years and over,Selected Economic Characteristics
+DP03_0027,"Selected Economic Characteristics!!OCCUPATION!!Management, professional, and related occupations",Selected Economic Characteristics
+DP03_0028,Selected Economic Characteristics!!OCCUPATION!!Service occupations,Selected Economic Characteristics
+DP03_0029,Selected Economic Characteristics!!OCCUPATION!!Sales and office occupations,Selected Economic Characteristics
+DP03_0030,"Selected Economic Characteristics!!OCCUPATION!!Farming, fishing, and forestry occupations",Selected Economic Characteristics
+DP03_0031,"Selected Economic Characteristics!!OCCUPATION!!Construction, extraction, maintenance and repair occupations",Selected Economic Characteristics
+DP03_0032,"Selected Economic Characteristics!!OCCUPATION!!Production, transportation, and material moving occupations",Selected Economic Characteristics
+DP03_0033,"Selected Economic Characteristics!!INDUSTRY!!Agriculture, forestry, fishing and hunting, and mining",Selected Economic Characteristics
+DP03_0034,Selected Economic Characteristics!!INDUSTRY!!Construction,Selected Economic Characteristics
+DP03_0035,Selected Economic Characteristics!!INDUSTRY!!Manufacturing,Selected Economic Characteristics
+DP03_0036,Selected Economic Characteristics!!INDUSTRY!!Wholesale trade,Selected Economic Characteristics
+DP03_0037,Selected Economic Characteristics!!INDUSTRY!!Retail trade,Selected Economic Characteristics
+DP03_0038,"Selected Economic Characteristics!!INDUSTRY!!Transportation and warehousing, and utilities",Selected Economic Characteristics
+DP03_0039,Selected Economic Characteristics!!INDUSTRY!! Information,Selected Economic Characteristics
+DP03_0040,"Selected Economic Characteristics!!INDUSTRY!!Finance and insurance, and real estate and rental and leasing",Selected Economic Characteristics
+DP03_0041,"Selected Economic Characteristics!!INDUSTRY!!Professional, scientific, and management, and administrative and waste management services",Selected Economic Characteristics
+DP03_0042,"Selected Economic Characteristics!!INDUSTRY!!Educational services, and health care, and social assistance",Selected Economic Characteristics
+DP03_0043,"Selected Economic Characteristics!!INDUSTRY!!Arts, entertainment, and recreation, and accommodation, and food services",Selected Economic Characteristics
+DP03_0044,"Selected Economic Characteristics!!INDUSTRY!!Other services, except public administration",Selected Economic Characteristics
+DP03_0045,Selected Economic Characteristics!!INDUSTRY!!Public administration,Selected Economic Characteristics
+DP03_0046,Selected Economic Characteristics!!CLASS OF WORKER!!Private wage and salary workers,Selected Economic Characteristics
+DP03_0047,Selected Economic Characteristics!!CLASS OF WORKER!!Government workers,Selected Economic Characteristics
+DP03_0048,Selected Economic Characteristics!!CLASS OF WORKER!!Self-employed workers in own not incorporated business,Selected Economic Characteristics
+DP03_0049,Selected Economic Characteristics!!CLASS OF WORKER!!Unpaid family workers,Selected Economic Characteristics
+DP03_0050,Selected Economic Characteristics!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Total households,Selected Economic Characteristics
+DP03_0051,"Selected Economic Characteristics!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Less than $10,000",Selected Economic Characteristics
+DP03_0052,"Selected Economic Characteristics!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!$10,000 to $14,999",Selected Economic Characteristics
+DP03_0053,"Selected Economic Characteristics!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!$15,000 to $24,999",Selected Economic Characteristics
+DP03_0054,"Selected Economic Characteristics!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!$25,000 to $34,999",Selected Economic Characteristics
+DP03_0055,"Selected Economic Characteristics!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!$35,000 to $49,999",Selected Economic Characteristics
+DP03_0056,"Selected Economic Characteristics!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!$50,000 to $74,999",Selected Economic Characteristics
+DP03_0057,"Selected Economic Characteristics!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!$75,000 to $99,999",Selected Economic Characteristics
+DP03_0058,"Selected Economic Characteristics!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!$100,000 to $149,999",Selected Economic Characteristics
+DP03_0059,"Selected Economic Characteristics!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!$150,000 to $199,999",Selected Economic Characteristics
+DP03_0060,"Selected Economic Characteristics!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!$200,000 or more",Selected Economic Characteristics
+DP03_0061,Selected Economic Characteristics!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Median household income (dollars),Selected Economic Characteristics
+DP03_0062,Selected Economic Characteristics!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Mean household income (dollars),Selected Economic Characteristics
+DP03_0063,Selected Economic Characteristics!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!With earnings,Selected Economic Characteristics
+DP03_0064,Selected Economic Characteristics!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Mean earnings (dollars),Selected Economic Characteristics
+DP03_0065,Selected Economic Characteristics!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!With Social Security,Selected Economic Characteristics
+DP03_0066,Selected Economic Characteristics!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Mean Social Security income (dollars),Selected Economic Characteristics
+DP03_0067,Selected Economic Characteristics!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!With retirement income,Selected Economic Characteristics
+DP03_0068,Selected Economic Characteristics!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Mean retirement income (dollars),Selected Economic Characteristics
+DP03_0069,Selected Economic Characteristics!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!With Supplemental Security Income,Selected Economic Characteristics
+DP03_0070,Selected Economic Characteristics!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Mean Supplemental Security Income (dollars),Selected Economic Characteristics
+DP03_0071,Selected Economic Characteristics!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!With cash public assistance income,Selected Economic Characteristics
+DP03_0072,Selected Economic Characteristics!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Mean cash public assistance income (dollars),Selected Economic Characteristics
+DP03_0073,Selected Economic Characteristics!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!With Food Stamp benefits in the past 12 months,Selected Economic Characteristics
+DP03_0074,Selected Economic Characteristics!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Families,Selected Economic Characteristics
+DP03_0075,"Selected Economic Characteristics!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Less than $10,000",Selected Economic Characteristics
+DP03_0076,"Selected Economic Characteristics!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!$10,000 to $14,999",Selected Economic Characteristics
+DP03_0077,"Selected Economic Characteristics!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!$15,000 to $24,999",Selected Economic Characteristics
+DP03_0078,"Selected Economic Characteristics!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!$25,000 to $34,999",Selected Economic Characteristics
+DP03_0079,"Selected Economic Characteristics!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!$35,000 to $49,999",Selected Economic Characteristics
+DP03_0080,"Selected Economic Characteristics!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!$50,000 to $74,999",Selected Economic Characteristics
+DP03_0081,"Selected Economic Characteristics!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!$75,000 to $99,999",Selected Economic Characteristics
+DP03_0082,"Selected Economic Characteristics!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!$100,000 to $149,999",Selected Economic Characteristics
+DP03_0083,"Selected Economic Characteristics!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!$150,000 to $199,999",Selected Economic Characteristics
+DP03_0084,"Selected Economic Characteristics!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!$200,000 or more",Selected Economic Characteristics
+DP03_0085,Selected Economic Characteristics!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Median family income (dollars),Selected Economic Characteristics
+DP03_0086,Selected Economic Characteristics!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Mean family income (dollars),Selected Economic Characteristics
+DP03_0087,Selected Economic Characteristics!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Per capita income (dollars),Selected Economic Characteristics
+DP03_0088,Selected Economic Characteristics!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Nonfamily households,Selected Economic Characteristics
+DP03_0089,Selected Economic Characteristics!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Median nonfamily income (dollars),Selected Economic Characteristics
+DP03_0090,Selected Economic Characteristics!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Mean nonfamily income (dollars),Selected Economic Characteristics
+DP03_0091,Selected Economic Characteristics!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Median earnings for workers (dollars),Selected Economic Characteristics
+DP03_0092,"Selected Economic Characteristics!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Median earnings for male full-time, year-round workers (dollars)",Selected Economic Characteristics
+DP03_0093,"Selected Economic Characteristics!!INCOME AND BENEFITS (IN 2005 INFLATION-ADJUSTED DOLLARS)!!Median earnings for female full-time, year-round workers (dollars)",Selected Economic Characteristics
+DP03_0094,Selected Economic Characteristics!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families,Selected Economic Characteristics
+DP03_0095,Selected Economic Characteristics!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!   With related children under 18 years,Selected Economic Characteristics
+DP03_0096,Selected Economic Characteristics!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!      With related children under 5 years only,Selected Economic Characteristics
+DP03_0097,Selected Economic Characteristics!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!Married couple families,Selected Economic Characteristics
+DP03_0098,Selected Economic Characteristics!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!   With related children under 18 years,Selected Economic Characteristics
+DP03_0099,Selected Economic Characteristics!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!      With related children under 5 years only,Selected Economic Characteristics
+DP03_0100,"Selected Economic Characteristics!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!Families with female householder, no husband present",Selected Economic Characteristics
+DP03_0101,Selected Economic Characteristics!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!   With related children under 18 years,Selected Economic Characteristics
+DP03_0102,Selected Economic Characteristics!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!      With related children under 5 years only,Selected Economic Characteristics
+DP03_0103,Selected Economic Characteristics!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people,Selected Economic Characteristics
+DP03_0104,Selected Economic Characteristics!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!Under 18 years,Selected Economic Characteristics
+DP03_0105,Selected Economic Characteristics!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!     Related children under 18 years,Selected Economic Characteristics
+DP03_0106,Selected Economic Characteristics!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!        Related children under 5 years,Selected Economic Characteristics
+DP03_0107,Selected Economic Characteristics!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!        Related children 5 to 17 years,Selected Economic Characteristics
+DP03_0108,Selected Economic Characteristics!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!18 years and over,Selected Economic Characteristics
+DP03_0109,Selected Economic Characteristics!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!18 to 64 years,Selected Economic Characteristics
+DP03_0110,Selected Economic Characteristics!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!65 years and over,Selected Economic Characteristics
+DP03_0111,Selected Economic Characteristics!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!People in families,Selected Economic Characteristics
+DP03_0112,Selected Economic Characteristics!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!Unrelated individuals 15 years and over,Selected Economic Characteristics
+DP04_0001,Selected Housing Characteristics!!HOUSING OCCUPANCY!!Total housing units,Selected Housing Characteristics
+DP04_0002,Selected Housing Characteristics!!HOUSING OCCUPANCY!!Occupied housing units,Selected Housing Characteristics
+DP04_0003,Selected Housing Characteristics!!HOUSING OCCUPANCY!!Vacant housing units,Selected Housing Characteristics
+DP04_0004,Selected Housing Characteristics!!HOUSING OCCUPANCY!!Homeowner vacancy rate,Selected Housing Characteristics
+DP04_0005,Selected Housing Characteristics!!HOUSING OCCUPANCY!!Rental vacancy rate,Selected Housing Characteristics
+DP04_0006,"Selected Housing Characteristics!!UNITS IN STRUCTURE!!1-unit, detached",Selected Housing Characteristics
+DP04_0007,"Selected Housing Characteristics!!UNITS IN STRUCTURE!!1-unit, attached",Selected Housing Characteristics
+DP04_0008,Selected Housing Characteristics!!UNITS IN STRUCTURE!!2 units,Selected Housing Characteristics
+DP04_0009,Selected Housing Characteristics!!UNITS IN STRUCTURE!!3 or 4 units,Selected Housing Characteristics
+DP04_0010,Selected Housing Characteristics!!UNITS IN STRUCTURE!!5 to 9 units,Selected Housing Characteristics
+DP04_0011,Selected Housing Characteristics!!UNITS IN STRUCTURE!!10 to 19 units,Selected Housing Characteristics
+DP04_0012,Selected Housing Characteristics!!UNITS IN STRUCTURE!!20 or more units,Selected Housing Characteristics
+DP04_0013,Selected Housing Characteristics!!UNITS IN STRUCTURE!!Mobile home,Selected Housing Characteristics
+DP04_0014,"Selected Housing Characteristics!!UNITS IN STRUCTURE!!Boat, RV, van, etc.",Selected Housing Characteristics
+DP04_0015,Selected Housing Characteristics!!YEAR STRUCTURE BUILT!!Built 1990 or later,Selected Housing Characteristics
+DP04_0016,Selected Housing Characteristics!!YEAR STRUCTURE BUILT!!Built 1980 to 1989,Selected Housing Characteristics
+DP04_0017,Selected Housing Characteristics!!YEAR STRUCTURE BUILT!!Built 1970 to 1979,Selected Housing Characteristics
+DP04_0018,Selected Housing Characteristics!!YEAR STRUCTURE BUILT!!Built 1960 to 1969,Selected Housing Characteristics
+DP04_0019,Selected Housing Characteristics!!YEAR STRUCTURE BUILT!!Built 1950 to 1959,Selected Housing Characteristics
+DP04_0020,Selected Housing Characteristics!!YEAR STRUCTURE BUILT!!Built 1940 to 1949,Selected Housing Characteristics
+DP04_0021,Selected Housing Characteristics!!YEAR STRUCTURE BUILT!!Built 1939 or earlier,Selected Housing Characteristics
+DP04_0022,Selected Housing Characteristics!!ROOMS!!1 room,Selected Housing Characteristics
+DP04_0023,Selected Housing Characteristics!!ROOMS!!2 rooms,Selected Housing Characteristics
+DP04_0024,Selected Housing Characteristics!!ROOMS!!3 rooms,Selected Housing Characteristics
+DP04_0025,Selected Housing Characteristics!!ROOMS!!4 rooms,Selected Housing Characteristics
+DP04_0026,Selected Housing Characteristics!!ROOMS!!5 rooms,Selected Housing Characteristics
+DP04_0027,Selected Housing Characteristics!!ROOMS!!6 rooms,Selected Housing Characteristics
+DP04_0028,Selected Housing Characteristics!!ROOMS!!7 rooms,Selected Housing Characteristics
+DP04_0029,Selected Housing Characteristics!!ROOMS!!8 rooms,Selected Housing Characteristics
+DP04_0030,Selected Housing Characteristics!!ROOMS!!9 rooms or more,Selected Housing Characteristics
+DP04_0031,Selected Housing Characteristics!!ROOMS!!Median (rooms),Selected Housing Characteristics
+DP04_0032,Selected Housing Characteristics!!BEDROOMS!!No bedroom,Selected Housing Characteristics
+DP04_0033,Selected Housing Characteristics!!BEDROOMS!!1 bedroom,Selected Housing Characteristics
+DP04_0034,Selected Housing Characteristics!!BEDROOMS!!2 bedrooms,Selected Housing Characteristics
+DP04_0035,Selected Housing Characteristics!!BEDROOMS!!3 bedrooms,Selected Housing Characteristics
+DP04_0036,Selected Housing Characteristics!!BEDROOMS!!4 bedrooms,Selected Housing Characteristics
+DP04_0037,Selected Housing Characteristics!!BEDROOMS!!5 or more bedrooms,Selected Housing Characteristics
+DP04_0038,Selected Housing Characteristics!!BEDROOMS!!Occupied housing units,Selected Housing Characteristics
+DP04_0039,Selected Housing Characteristics!!HOUSING TENURE!!Owner-occupied,Selected Housing Characteristics
+DP04_0040,Selected Housing Characteristics!!HOUSING TENURE!!Renter-occupied,Selected Housing Characteristics
+DP04_0041,Selected Housing Characteristics!!HOUSING TENURE!!Average household size of owner-occupied unit,Selected Housing Characteristics
+DP04_0042,Selected Housing Characteristics!!HOUSING TENURE!!Average household size of renter-occupied unit,Selected Housing Characteristics
+DP04_0043,Selected Housing Characteristics!!YEAR HOUSEHOLDER MOVED INTO UNIT!!Moved in 2000 or later,Selected Housing Characteristics
+DP04_0044,Selected Housing Characteristics!!YEAR HOUSEHOLDER MOVED INTO UNIT!!Moved in 1995 to 1999,Selected Housing Characteristics
+DP04_0045,Selected Housing Characteristics!!YEAR HOUSEHOLDER MOVED INTO UNIT!!Moved in 1990 to 1994,Selected Housing Characteristics
+DP04_0046,Selected Housing Characteristics!!YEAR HOUSEHOLDER MOVED INTO UNIT!!Moved in 1980 to 1989,Selected Housing Characteristics
+DP04_0047,Selected Housing Characteristics!!YEAR HOUSEHOLDER MOVED INTO UNIT!!Moved in 1970 to 1979,Selected Housing Characteristics
+DP04_0048,Selected Housing Characteristics!!YEAR HOUSEHOLDER MOVED INTO UNIT!!Moved in 1969 or earlier,Selected Housing Characteristics
+DP04_0049,Selected Housing Characteristics!!VEHICLES AVAILABLE!!No vehicles available,Selected Housing Characteristics
+DP04_0050,Selected Housing Characteristics!!VEHICLES AVAILABLE!!1 vehicle available,Selected Housing Characteristics
+DP04_0051,Selected Housing Characteristics!!VEHICLES AVAILABLE!!2 vehicles available,Selected Housing Characteristics
+DP04_0052,Selected Housing Characteristics!!VEHICLES AVAILABLE!!3 or more vehicles available,Selected Housing Characteristics
+DP04_0053,Selected Housing Characteristics!!HOUSE HEATING FUEL!!Utility gas,Selected Housing Characteristics
+DP04_0054,"Selected Housing Characteristics!!HOUSE HEATING FUEL!!Bottled, tank, or LP gas",Selected Housing Characteristics
+DP04_0055,Selected Housing Characteristics!!HOUSE HEATING FUEL!!Electricity,Selected Housing Characteristics
+DP04_0056,"Selected Housing Characteristics!!HOUSE HEATING FUEL!!Fuel oil, kerosene, etc.",Selected Housing Characteristics
+DP04_0057,Selected Housing Characteristics!!HOUSE HEATING FUEL!!Coal or coke,Selected Housing Characteristics
+DP04_0058,Selected Housing Characteristics!!HOUSE HEATING FUEL!!Wood,Selected Housing Characteristics
+DP04_0059,Selected Housing Characteristics!!HOUSE HEATING FUEL!!Solar energy,Selected Housing Characteristics
+DP04_0060,Selected Housing Characteristics!!HOUSE HEATING FUEL!!Other fuel,Selected Housing Characteristics
+DP04_0061,Selected Housing Characteristics!!HOUSE HEATING FUEL!!No fuel used,Selected Housing Characteristics
+DP04_0062,Selected Housing Characteristics!!SELECTED CHARACTERISTICS!!Lacking complete plumbing facilities,Selected Housing Characteristics
+DP04_0063,Selected Housing Characteristics!!SELECTED CHARACTERISTICS!!Lacking complete kitchen facilities,Selected Housing Characteristics
+DP04_0064,Selected Housing Characteristics!!SELECTED CHARACTERISTICS!!No telephone service available,Selected Housing Characteristics
+DP04_0065,Selected Housing Characteristics!!OCCUPANTS PER ROOM!!1.00 or less,Selected Housing Characteristics
+DP04_0066,Selected Housing Characteristics!!OCCUPANTS PER ROOM!!1.01 to 1.50,Selected Housing Characteristics
+DP04_0067,Selected Housing Characteristics!!OCCUPANTS PER ROOM!!1.51 or more,Selected Housing Characteristics
+DP04_0068,Selected Housing Characteristics!!OCCUPANTS PER ROOM!!Owner-occupied units,Selected Housing Characteristics
+DP04_0069,"Selected Housing Characteristics!!VALUE!!Less than $50,000",Selected Housing Characteristics
+DP04_0070,"Selected Housing Characteristics!!VALUE!!$50,000 to $99,999",Selected Housing Characteristics
+DP04_0071,"Selected Housing Characteristics!!VALUE!!$100,000 to $149,999",Selected Housing Characteristics
+DP04_0072,"Selected Housing Characteristics!!VALUE!!$150,000 to $199,999",Selected Housing Characteristics
+DP04_0073,"Selected Housing Characteristics!!VALUE!!$200,000 to $299,999",Selected Housing Characteristics
+DP04_0074,"Selected Housing Characteristics!!VALUE!!$300,000 to $499,999",Selected Housing Characteristics
+DP04_0075,"Selected Housing Characteristics!!VALUE!!$500,000 to $999,999",Selected Housing Characteristics
+DP04_0076,"Selected Housing Characteristics!!VALUE!!$1,000,000 or more",Selected Housing Characteristics
+DP04_0077,Selected Housing Characteristics!!VALUE!!Median (dollars),Selected Housing Characteristics
+DP04_0078,Selected Housing Characteristics!!MORTGAGE STATUS AND SELECTED MONTHLY OWNER COSTS!!Housing units with a mortgage,Selected Housing Characteristics
+DP04_0079,Selected Housing Characteristics!!MORTGAGE STATUS AND SELECTED MONTHLY OWNER COSTS!!Less than $300,Selected Housing Characteristics
+DP04_0080,Selected Housing Characteristics!!MORTGAGE STATUS AND SELECTED MONTHLY OWNER COSTS!!$300 to $499,Selected Housing Characteristics
+DP04_0081,Selected Housing Characteristics!!MORTGAGE STATUS AND SELECTED MONTHLY OWNER COSTS!!$500 to $699,Selected Housing Characteristics
+DP04_0082,Selected Housing Characteristics!!MORTGAGE STATUS AND SELECTED MONTHLY OWNER COSTS!!$700 to $999,Selected Housing Characteristics
+DP04_0083,"Selected Housing Characteristics!!MORTGAGE STATUS AND SELECTED MONTHLY OWNER COSTS!!$1,000 to $1,499",Selected Housing Characteristics
+DP04_0084,"Selected Housing Characteristics!!MORTGAGE STATUS AND SELECTED MONTHLY OWNER COSTS!!$1,500 to $1,999",Selected Housing Characteristics
+DP04_0085,"Selected Housing Characteristics!!MORTGAGE STATUS AND SELECTED MONTHLY OWNER COSTS!!$2,000 or more",Selected Housing Characteristics
+DP04_0086,Selected Housing Characteristics!!MORTGAGE STATUS AND SELECTED MONTHLY OWNER COSTS!!Median (dollars),Selected Housing Characteristics
+DP04_0087,Selected Housing Characteristics!!MORTGAGE STATUS AND SELECTED MONTHLY OWNER COSTS!!Housing units without a mortgage,Selected Housing Characteristics
+DP04_0088,Selected Housing Characteristics!!MORTGAGE STATUS AND SELECTED MONTHLY OWNER COSTS!!Less than $100,Selected Housing Characteristics
+DP04_0089,Selected Housing Characteristics!!MORTGAGE STATUS AND SELECTED MONTHLY OWNER COSTS!!$100 to $199,Selected Housing Characteristics
+DP04_0090,Selected Housing Characteristics!!MORTGAGE STATUS AND SELECTED MONTHLY OWNER COSTS!!$200 to $299,Selected Housing Characteristics
+DP04_0091,Selected Housing Characteristics!!MORTGAGE STATUS AND SELECTED MONTHLY OWNER COSTS!!$300 to $399,Selected Housing Characteristics
+DP04_0092,Selected Housing Characteristics!!MORTGAGE STATUS AND SELECTED MONTHLY OWNER COSTS!!$400 or more,Selected Housing Characteristics
+DP04_0093,Selected Housing Characteristics!!MORTGAGE STATUS AND SELECTED MONTHLY OWNER COSTS!!Median (dollars),Selected Housing Characteristics
+DP04_0094,Selected Housing Characteristics!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME!!Housing unit with a mortgage,Selected Housing Characteristics
+DP04_0095,Selected Housing Characteristics!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME!!Less than 20.0 percent,Selected Housing Characteristics
+DP04_0096,Selected Housing Characteristics!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME!!20.0 to 24.9 percent,Selected Housing Characteristics
+DP04_0097,Selected Housing Characteristics!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME!!25.0 to 29.9 percent,Selected Housing Characteristics
+DP04_0098,Selected Housing Characteristics!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME!!30.0 to 34.9 percent,Selected Housing Characteristics
+DP04_0099,Selected Housing Characteristics!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME!!35.0 percent or more,Selected Housing Characteristics
+DP04_0100,Selected Housing Characteristics!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME!!Not computed,Selected Housing Characteristics
+DP04_0101,Selected Housing Characteristics!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME!!Housing unit without a mortgage,Selected Housing Characteristics
+DP04_0102,Selected Housing Characteristics!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME!!Less than 10.0 percent,Selected Housing Characteristics
+DP04_0103,Selected Housing Characteristics!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME!!10.0 to 14.9 percent,Selected Housing Characteristics
+DP04_0104,Selected Housing Characteristics!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME!!15.0 to 19.9 percent,Selected Housing Characteristics
+DP04_0105,Selected Housing Characteristics!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME!!20.0 to 24.9 percent,Selected Housing Characteristics
+DP04_0106,Selected Housing Characteristics!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME!!25.0 to 29.9 percent,Selected Housing Characteristics
+DP04_0107,Selected Housing Characteristics!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME!!30.0 to 34.9 percent,Selected Housing Characteristics
+DP04_0108,Selected Housing Characteristics!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME!!35.0 percent or more,Selected Housing Characteristics
+DP04_0109,Selected Housing Characteristics!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME!!Not computed,Selected Housing Characteristics
+DP04_0110,Selected Housing Characteristics!!SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME!!Renter-occupied units,Selected Housing Characteristics
+DP04_0111,Selected Housing Characteristics!!GROSS RENT!!Less than $200,Selected Housing Characteristics
+DP04_0112,Selected Housing Characteristics!!GROSS RENT!!$200 to $299,Selected Housing Characteristics
+DP04_0113,Selected Housing Characteristics!!GROSS RENT!!$300 to $499,Selected Housing Characteristics
+DP04_0114,Selected Housing Characteristics!!GROSS RENT!!$500 to $749,Selected Housing Characteristics
+DP04_0115,Selected Housing Characteristics!!GROSS RENT!!$750 to $999,Selected Housing Characteristics
+DP04_0116,"Selected Housing Characteristics!!GROSS RENT!!$1,000 to $1,499",Selected Housing Characteristics
+DP04_0117,"Selected Housing Characteristics!!GROSS RENT!!$1,500 or more",Selected Housing Characteristics
+DP04_0118,Selected Housing Characteristics!!GROSS RENT!!No cash rent,Selected Housing Characteristics
+DP04_0119,Selected Housing Characteristics!!GROSS RENT!!Median (dollars),Selected Housing Characteristics
+DP04_0120,Selected Housing Characteristics!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME!!Less than 15.0 percent,Selected Housing Characteristics
+DP04_0121,Selected Housing Characteristics!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME!!15.0 to 19.9 percent,Selected Housing Characteristics
+DP04_0122,Selected Housing Characteristics!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME!!20.0 to 24.9 percent,Selected Housing Characteristics
+DP04_0123,Selected Housing Characteristics!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME!!25.0 to 29.9 percent,Selected Housing Characteristics
+DP04_0124,Selected Housing Characteristics!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME!!30.0 to 34.9 percent,Selected Housing Characteristics
+DP04_0125,Selected Housing Characteristics!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME!!35.0 percent or more,Selected Housing Characteristics
+DP04_0126,Selected Housing Characteristics!!GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME!!Not computed,Selected Housing Characteristics
