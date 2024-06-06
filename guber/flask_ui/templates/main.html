@@ -11,7 +11,36 @@
     <header>
         <h1>Risky Policy Data Entry</h1>
     </header>
-    <table>
+    {% with messages = get_flashed_messages(with_categories=true) %}
+        {% if messages %}
+            {% for category, message in messages %}
+                <div class="alert alert-{{ category }}">
+                    {{ message }}
+                </div>
+            {% endfor %}
+        {% endif %}
+    {% endwith %}
+    <div class="blockquote text-bg-light border border-black">
+        {{ "Snippet " + row_num + ": " + snippet }}
+    </div>
+    <form method="POST" action="" id="form">
+        {{ form.csrf_token }}
+        <div>
+            {{ form.policy.label(class="form-control-label")}}
+            {{ form.policy(class="form-control" )}}
+            {{ form.proposal.label(class="form-control-label")}}
+            {{ form.proposal(class="form-control" )}}
+            {{ form.risky.label(class="form-control-label")}}
+            {{ form.risky(class="form-control" )}}
+            {{ form.keywords.label(class="form-control-label")}}
+            {{ form.keywords(class="form-control" )}}
+        </div>
+        <div class="buttons">
+            {{ form.submit(class="btn btn-primary")}}
+            {{ form.undo(class="btn btn-secondary")}}
+        </div>
+    </form>
+    <table class="table">
         <tr>
             {% for col in column_names %}
             <th>{{col}}</th>
@@ -26,29 +55,6 @@
         </tr>
         {% endfor %}
     </table>
-    <form method="POST" action="">
-        {{ form.hidden_tag() }}
-        <div>
-            <label for="policy">Policy?</label>
-            <input type="number" class="form-control" id="policy" onchange="autofill()" name="policy" required min="0" max="1">
-        </div>
-        <div>
-            <label for="proposal">Proposal/Past?</label>
-            <input type="number" class="form-control" id="proposal" name="proposal" required min="0" max="1">
-        </div>
-        <div>
-            <label for="risky">Risky?</label>
-            <input type="number" class="form-control" id="risky" name="risky" required min="0" max="1">
-        </div>
-        <div>
-            <label for="keywords">Keywords</label>
-            <input type="text" class="form-control" id="keywords" name="keywords">
-        </div>
-        <div class="buttons">
-            <input class="btn btn-primary" type="submit" value="Submit">
-            <button type="button" class="btn btn-secondary">Undo</button>
-        </div>
-    </form>
     <script src="{{ url_for('static', filename='js/main.js') }}"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.min.js" integrity="sha384-0pUGZvbkm6XF6gxjEnlmuGrJXVbNuzT9qBBavbLwCsOGabYfZo0T0to5eqruptLy" crossorigin="anonymous"></script>
