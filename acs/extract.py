@@ -23,38 +23,11 @@ def read_tracts(filepath):
     
     tracts = tracts[[geo_column, tract_column]]
     tracts = tracts.rename(columns={geo_column: 'geometry', tract_column: 'TRACTCE'})
-    tracts['geometry'] = tracts['geometry'].apply(wkt.loads)
+    if filepath.endswith('.csv'):
+        tracts['geometry'] = tracts['geometry'].apply(wkt.loads)
     tracts = gpd.GeoDataFrame(tracts, geometry='geometry')
 
     return tracts
-
-# reads district data from raw data
-def read_districts(filepath):
-    if filepath.endswith('.csv'):
-        districts = pd.read_csv(filepath)
-    if filepath.endswith('.shp') or filepath.endswith('.geojson'):
-        districts = gpd.read_file(filepath)
-
-    # look for a column named the_geom, geometry, geom, polygon, or polygons
-    for column in ['the_geom', 'geometry', 'geom', 'polygon', 'polygons']:
-        if column in districts.columns:
-            geo_column = column
-            break
-    # look for column with DISTRICT in it
-    for column in districts.columns:
-        if 'district' in column.lower() or 'ward' in column.lower():
-            district_column = column
-            break
-    
-    districts = districts[[geo_column, district_column]]
-    districts = districts.rename(columns={geo_column: 'geometry', district_column: 'district'})
-    districts['geometry'] = districts['geometry'].apply(wkt.loads)
-    districts = gpd.GeoDataFrame(districts, geometry='geometry')
-
-    # in district column, only keep numeric characters
-    districts['district'] = districts['district'].str.extract('(\d+)')
-
-    return districts
 
 # determines tracts that overlap with a polygon
 def overlap(tracts, polygon):
