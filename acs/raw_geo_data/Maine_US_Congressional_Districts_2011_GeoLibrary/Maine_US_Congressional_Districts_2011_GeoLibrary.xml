@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <origin/>
+                <pubdate>20180124</pubdate>
+                <title>Maine US Congressional Districts 2011 GeoLibrary</title>
+                <geoform>vector digital data</geoform>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>Dataset contains US Congressional Districts for Maine as per LD1590, 125th legislature, enacted 9-28-2011</abstract>
+            <purpose>Published as a Maine GIS dataset to provide a digital copy of Maine's newly apportioned electoral districts to all Maine GIS users</purpose>
+        </descript>
+        <status>
+            <progress>Complete</progress>
+            <update>None planned</update>
+        </status>
+        <spdom>
+            <bounding>
+                <westbc>-71.166757</westbc>
+                <eastbc>-66.78175</eastbc>
+                <northbc>47.460074</northbc>
+                <southbc>42.909625</southbc>
+            </bounding>
+        </spdom>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>society</themekey>
+                <themekey>boundaries</themekey>
+                <themekey>Congress</themekey>
+                <themekey>Congressional District</themekey>
+                <themekey>state</themekey>
+            </theme>
+            <theme>
+                <themekt>ISO 19115 Topic Categories</themekt>
+                <themekey>boundaries</themekey>
+                <themekey>society</themekey>
+            </theme>
+            <place>
+                <placekt>None</placekt>
+                <placekey>maine</placekey>
+            </place>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst>Users must assume responsibility in determining the usability of this data for their purposes. Digital maps retain the accuracy of their source materials.</useconst>
+        <ptcontac>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>Maine Office of GIS</cntorg>
+                </cntorgp>
+                <cntpos>GIS Manager</cntpos>
+                <cntaddr>
+                    <addrtype>mailing</addrtype>
+                    <address>145 State House Station</address>
+                    <city>Augusta,</city>
+                    <state>ME</state>
+                    <postal>04333</postal>
+                    <country>US</country>
+                </cntaddr>
+                <cntvoice>207-624-8800</cntvoice>
+                <cntemail>Customer-Support@maine.gov</cntemail>
+            </cntinfo>
+        </ptcontac>
+        <datacred>Credit should always be given to the data source and/or originator when the data is transferred or printed.</datacred>
+        <native>Microsoft Windows 7 Version 6.1 (Build 7601) Service Pack 1; Esri ArcGIS 10.3.1.4959</native>
+    </idinfo>
+    <spdoinfo>
+        <direct>Vector</direct>
+        <ptvctinf>
+            <sdtsterm>
+                <sdtstype>GT-polygon composed of chains</sdtstype>
+                <ptvctcnt>2</ptvctcnt>
+            </sdtsterm>
+        </ptvctinf>
+    </spdoinfo>
+    <eainfo>
+        <detailed>
+            <enttyp>
+                <enttypl>Congress_2011</enttypl>
+                <enttypd>Congressional Districts for Maine 2011</enttypd>
+                <enttypds>MEGIS</enttypds>
+            </enttyp>
+            <attr>
+                <attrlabl>District</attrlabl>
+                <attrdef>District Number</attrdef>
+                <attrdefs>MEGIS</attrdefs>
+                <attrdomv>
+                    					
+                    <edom>
+                        						
+                        <edomv>1</edomv>
+                        						
+                        <edomvd>District 1</edomvd>
+                        						
+                        <edomvds>Maine State Legislature</edomvds>
+                        					
+                    </edom>
+                    				
+                </attrdomv>
+                <attrdomv>
+                    					
+                    <edom>
+                        						
+                        <edomv>2</edomv>
+                        						
+                        <edomvd>District 2</edomvd>
+                        						
+                        <edomvds>Maine State Legislature</edomvds>
+                        					
+                    </edom>
+                    				
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>Shape.area</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>SHAPE</attrlabl>
+                <attrdef>Feature geometry.</attrdef>
+                <attrdefs>ESRI</attrdefs>
+                <attrdomv>
+                    					
+                    <udom>Coordinates defining the features.</udom>
+                    				
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>GlobalID</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>OBJECTID</attrlabl>
+                <attrdef>Internal feature number.</attrdef>
+                <attrdefs>ESRI</attrdefs>
+                <attrdomv>
+                    					
+                    <udom>Sequential unique whole numbers that are automatically generated.</udom>
+                    				
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>Shape.len</attrlabl>
+            </attr>
+        </detailed>
+        <overview>
+            <eaover>The First District consists of the counties of Cumberland, Knox, Lincoln, Sagadahoc and York and the following municipalities within Kennebec County: Augusta, Chelsea, China, Farmingdale, Hallowell, Manchester, Pittston, Readfield, Vassalboro, Waterville, Windsor, Winslow and Winthrop. The Second District consists of the counties of Androscoggin, Aroostook, Franklin, Hancock, Oxford, Penobscot, Piscataquis, Somerset, Waldo and Washington and the following municipalities and areas within Kennebec County: Albion, Belgrade, Benton, Clinton, Fayette, Gardiner, Litchfield, Monmouth, Mount Vernon, Oakland, Randolph, Rome, Sidney, Vienna, Wayne, West Gardiner and Unity Township.</eaover>
+            <eadetcit>LD1590, 125th legislature, enacted 9-28-2011</eadetcit>
+        </overview>
+    </eainfo>
+    <distinfo>
+        <distrib>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>Maine Office of Geographic Information Systems</cntorg>
+                </cntorgp>
+                <cntpos>GIS Coordinator</cntpos>
+                <cntaddr>
+                    <addrtype>mailing</addrtype>
+                    <address>State House Station #145</address>
+                    <city>Augusta</city>
+                    <state>Maine</state>
+                    <postal>04333</postal>
+                    <country>US</country>
+                </cntaddr>
+                <cntvoice>207-624-7700</cntvoice>
+                <cntemail>OIT.Customer-Support@maine.gov</cntemail>
+                <hours>9 am to 5 pm EST</hours>
+                <cntinst>Monday through Friday</cntinst>
+            </cntinfo>
+        </distrib>
+        <distliab>See access and use constraints information.</distliab>
+    </distinfo>
+    <metainfo>
+        <metd>20160929</metd>
+        <metc>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>Maine Office of Geographic Information Systems</cntorg>
+                </cntorgp>
+                <cntpos>GIS Coordinator</cntpos>
+                <cntaddr>
+                    <addrtype>mailing</addrtype>
+                    <address>State House Station #145</address>
+                    <city>Augusta</city>
+                    <state>Maine</state>
+                    <postal>04333</postal>
+                    <country>US</country>
+                </cntaddr>
+                <cntvoice>207-624-7700</cntvoice>
+                <cntemail>OIT.Customer-Support@maine.gov</cntemail>
+                <hours>9 am to 5 pm EST</hours>
+                <cntinst>Monday through Friday</cntinst>
+            </cntinfo>
+        </metc>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>
