@@ -20,7 +20,14 @@ def read_tracts(filepath):
         if 'TRACT' in column:
             tract_column = column
             break
+        if 'STATEFP' in column:
+            state_column = column
+        if 'COUNTYFP' in column:
+            county_column = column
     
+    # combine STATEFP, COUNTYFP, and tract_column column values separated by _ to create a TRACTCE column
+    tracts[tract_column] = tracts[state_column].astype(str) + "_" + tracts[county_column].astype(str) + "_" + tracts[tract_column].astype(str)
+
     tracts = tracts[[geo_column, tract_column]]
     tracts = tracts.rename(columns={geo_column: 'geometry', tract_column: 'TRACTCE'})
     if filepath.endswith('.csv'):
