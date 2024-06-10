@@ -30,10 +30,10 @@ def read_tracts(filepath):
     return tracts
 
 # determines tracts that overlap with a polygon
-def overlap(tracts, polygon):
+def overlap(tract_df, polygon):
     tracts = []
     percents = []
-    for index, row in tracts.iterrows():
+    for index, row in tract_df.iterrows():
         if row['geometry'].intersects(polygon):
             tracts.append(row['TRACTCE'])
             percents.append(row['geometry'].intersection(polygon).area / row['geometry'].area)
