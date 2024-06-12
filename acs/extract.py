@@ -1,6 +1,6 @@
 import pandas as pd
 import geopandas as gpd
-from shapely import wkt
+from shapely import wkt, make_valid
 
 # reads tract data from raw data
 def read_tracts(filepath):
@@ -40,10 +40,12 @@ def read_tracts(filepath):
 def overlap(tract_df, polygon):
     tracts = []
     percents = []
+    polygon=make_valid(polygon)
     for index, row in tract_df.iterrows():
-        if row['geometry'].intersects(polygon):
+        tract_polygon = make_valid(row['geometry'])
+        if tract_polygon.intersects(polygon):
             tracts.append(row['TRACTCE'])
-            percents.append(row['geometry'].intersection(polygon).area / row['geometry'].area)
+            percents.append(tract_polygon.intersection(polygon).area / tract_polygon.area)
 
     return tracts, percents
 
