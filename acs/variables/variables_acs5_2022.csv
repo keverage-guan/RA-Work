@@ -947,7 +947,7 @@ DP03_0007E,Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!Not in lab
 DP03_0008E,Estimate!!EMPLOYMENT STATUS!!Civilian labor force,Selected Economic Characteristics,not required,"DP03_0008EA,
                 DP03_0008M,
                 DP03_0008MA",0,int,DP03
-DP03_0009E,Estimate!!EMPLOYMENT STATUS!!Civilian labor force!!Unemployment Rate,Selected Economic Characteristics,not required,"DP03_0009EA,
+DP03_0009PE,Estimate!!EMPLOYMENT STATUS!!Civilian labor force!!Unemployment Rate,Selected Economic Characteristics,not required,"DP03_0009EA,
                 DP03_0009M,
                 DP03_0009MA",0,int,DP03
 DP03_0010E,Estimate!!EMPLOYMENT STATUS!!Females 16 years and over,Selected Economic Characteristics,not required,"DP03_0010EA,
@@ -1277,61 +1277,61 @@ DP03_0117E,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized po
 DP03_0118E,Estimate!!HEALTH INSURANCE COVERAGE!!Civilian noninstitutionalized population 19 to 64 years!!Not in labor force:!!No health insurance coverage,Selected Economic Characteristics,not required,"DP03_0118EA,
                 DP03_0118M,
                 DP03_0118MA",0,int,DP03
-DP03_0119E,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families,Selected Economic Characteristics,not required,"DP03_0119EA,
+DP03_0119PE,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families,Selected Economic Characteristics,not required,"DP03_0119EA,
                 DP03_0119M,
                 DP03_0119MA",0,int,DP03
-DP03_0120E,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families!!With related children of the householder under 18 years,Selected Economic Characteristics,not required,"DP03_0120EA,
+DP03_0120PE,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families!!With related children of the householder under 18 years,Selected Economic Characteristics,not required,"DP03_0120EA,
                 DP03_0120M,
                 DP03_0120MA",0,int,DP03
-DP03_0121E,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families!!With related children of the householder under 18 years!!With related children of the householder under 5 years only,Selected Economic Characteristics,not required,"DP03_0121EA,
+DP03_0121PE,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families!!With related children of the householder under 18 years!!With related children of the householder under 5 years only,Selected Economic Characteristics,not required,"DP03_0121EA,
                 DP03_0121M,
                 DP03_0121MA",0,int,DP03
-DP03_0122E,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families!!Married couple families,Selected Economic Characteristics,not required,"DP03_0122EA,
+DP03_0122PE,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families!!Married couple families,Selected Economic Characteristics,not required,"DP03_0122EA,
                 DP03_0122M,
                 DP03_0122MA",0,int,DP03
-DP03_0123E,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families!!Married couple families!!With related children of the householder under 18 years,Selected Economic Characteristics,not required,"DP03_0123EA,
+DP03_0123PE,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families!!Married couple families!!With related children of the householder under 18 years,Selected Economic Characteristics,not required,"DP03_0123EA,
                 DP03_0123M,
                 DP03_0123MA",0,int,DP03
-DP03_0124E,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families!!Married couple families!!With related children of the householder under 18 years!!With related children of the householder under 5 years only,Selected Economic Characteristics,not required,"DP03_0124EA,
+DP03_0124PE,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families!!Married couple families!!With related children of the householder under 18 years!!With related children of the householder under 5 years only,Selected Economic Characteristics,not required,"DP03_0124EA,
                 DP03_0124M,
                 DP03_0124MA",0,int,DP03
-DP03_0125E,"Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families!!Families with female householder, no spouse present",Selected Economic Characteristics,not required,"DP03_0125EA,
+DP03_0125PE,"Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families!!Families with female householder, no spouse present",Selected Economic Characteristics,not required,"DP03_0125EA,
                 DP03_0125M,
                 DP03_0125MA",0,int,DP03
-DP03_0126E,"Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families!!Families with female householder, no spouse present!!With related children of the householder under 18 years",Selected Economic Characteristics,not required,"DP03_0126EA,
+DP03_0126PE,"Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families!!Families with female householder, no spouse present!!With related children of the householder under 18 years",Selected Economic Characteristics,not required,"DP03_0126EA,
                 DP03_0126M,
                 DP03_0126MA",0,int,DP03
-DP03_0127E,"Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families!!Families with female householder, no spouse present!!With related children of the householder under 18 years!!With related children of the householder under 5 years only",Selected Economic Characteristics,not required,"DP03_0127EA,
+DP03_0127PE,"Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families!!Families with female householder, no spouse present!!With related children of the householder under 18 years!!With related children of the householder under 5 years only",Selected Economic Characteristics,not required,"DP03_0127EA,
                 DP03_0127M,
                 DP03_0127MA",0,int,DP03
-DP03_0128E,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people,Selected Economic Characteristics,not required,"DP03_0128EA,
+DP03_0128PE,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people,Selected Economic Characteristics,not required,"DP03_0128EA,
                 DP03_0128M,
                 DP03_0128MA",0,int,DP03
-DP03_0129E,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people!!Under 18 years,Selected Economic Characteristics,not required,"DP03_0129EA,
+DP03_0129PE,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people!!Under 18 years,Selected Economic Characteristics,not required,"DP03_0129EA,
                 DP03_0129M,
                 DP03_0129MA",0,int,DP03
-DP03_0130E,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people!!Under 18 years!!Related children of the householder under 18 years,Selected Economic Characteristics,not required,"DP03_0130EA,
+DP03_0130PE,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people!!Under 18 years!!Related children of the householder under 18 years,Selected Economic Characteristics,not required,"DP03_0130EA,
                 DP03_0130M,
                 DP03_0130MA",0,int,DP03
-DP03_0131E,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people!!Under 18 years!!Related children of the householder under 18 years!!Related children of the householder under 5 years,Selected Economic Characteristics,not required,"DP03_0131EA,
+DP03_0131PE,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people!!Under 18 years!!Related children of the householder under 18 years!!Related children of the householder under 5 years,Selected Economic Characteristics,not required,"DP03_0131EA,
                 DP03_0131M,
                 DP03_0131MA",0,int,DP03
-DP03_0132E,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people!!Under 18 years!!Related children of the householder under 18 years!!Related children of the householder 5 to 17 years,Selected Economic Characteristics,not required,"DP03_0132EA,
+DP03_0132PE,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people!!Under 18 years!!Related children of the householder under 18 years!!Related children of the householder 5 to 17 years,Selected Economic Characteristics,not required,"DP03_0132EA,
                 DP03_0132M,
                 DP03_0132MA",0,int,DP03
-DP03_0133E,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people!!18 years and over,Selected Economic Characteristics,not required,"DP03_0133EA,
+DP03_0133PE,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people!!18 years and over,Selected Economic Characteristics,not required,"DP03_0133EA,
                 DP03_0133M,
                 DP03_0133MA",0,int,DP03
-DP03_0134E,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people!!18 years and over!!18 to 64 years,Selected Economic Characteristics,not required,"DP03_0134EA,
+DP03_0134PE,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people!!18 years and over!!18 to 64 years,Selected Economic Characteristics,not required,"DP03_0134EA,
                 DP03_0134M,
                 DP03_0134MA",0,int,DP03
-DP03_0135E,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people!!18 years and over!!65 years and over,Selected Economic Characteristics,not required,"DP03_0135EA,
+DP03_0135PE,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people!!18 years and over!!65 years and over,Selected Economic Characteristics,not required,"DP03_0135EA,
                 DP03_0135M,
                 DP03_0135MA",0,int,DP03
-DP03_0136E,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people!!People in families,Selected Economic Characteristics,not required,"DP03_0136EA,
+DP03_0136PE,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people!!People in families,Selected Economic Characteristics,not required,"DP03_0136EA,
                 DP03_0136M,
                 DP03_0136MA",0,int,DP03
-DP03_0137E,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people!!Unrelated individuals 15 years and over,Selected Economic Characteristics,not required,"DP03_0137EA,
+DP03_0137PE,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people!!Unrelated individuals 15 years and over,Selected Economic Characteristics,not required,"DP03_0137EA,
                 DP03_0137M,
                 DP03_0137MA",0,int,DP03
 DP05_0001E,Estimate!!SEX AND AGE!!Total population,ACS Demographic and Housing Estimates,not required,"DP05_0001EA,
