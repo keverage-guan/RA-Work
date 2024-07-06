@@ -3,21 +3,20 @@ import regex as re
 import requests
 import json
 
-def query(year, groups, for_param, key):
+def query(year, selected_variables, for_param, key):
     adjusted_year = get_adjusted_year(year)
     data_dict = {}
     for query_year in range(adjusted_year, adjusted_year - 3, -1):
         try: 
-            for group in groups:
-                url = f"https://api.census.gov/data/{query_year}/acs/acs5/profile?get=group({group})&for={for_param}&key={key}"
+            variables = ','.join(list(selected_variables[f'{query_year}_name'])).replace('***', ',')
 
-                response = requests.get(url)
-                data = json.loads(response.text)
-                # append each array of data to each array of all_data
-                for i in range(len(data[0])):
-                    # do the same thing but for E, EA, PE, and PEA
-                    if re.search(r'\d(?:E|PE)$', data[0][i]) is not None:
-                        data_dict[data[0][i]] = data[1][i]
+            url = f"https://api.census.gov/data/{query_year}/acs/acs5/profile?get={variables}&for={for_param}&key={key}"
+
+            response = requests.get(url)
+            data = json.loads(response.text)
+            # append each array of data to each array of all_data
+            for i in range(len(data[0])):
+                data_dict[data[0][i]] = data[1][i]
             break
                     
         except Exception as e:
